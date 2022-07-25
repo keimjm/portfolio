@@ -1772,8 +1772,8 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: 100%;
-			margin: 0 0 2em 0;
+			width: 50%;
+			margin: 15px auto;
 		}
 
 		.image.left {
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/city.jpg");
 			}
 
 			#main > section.two {
